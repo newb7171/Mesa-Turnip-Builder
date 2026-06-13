@@ -9,7 +9,7 @@ I will try to keep this project up to date as much as i can.
 **Requires Android 14 to install**
 
 1. Updated Android NDK to 30 beta
-2. LTO support removed to fix issues when building mesa 26.1.1
+2. LTO support removed to fix issues when building mesa 26.2.0
 3. Added uninstall script and minor improvements  
 4. Updated minimum Magisk version to v25.0  
 5. Now supports auto-updates via Magisk / KernelSU  
